@@ -1,0 +1,19 @@
+*
+{
+    font-weight: bold;
+    font-family: 'Gaegu', cursive;
+}
+
+body
+{
+    background-color: pink;
+}
+
+#main, #qna ,#result
+{
+    background-color: whitesmoke;
+    width: 80%;
+    text-align: center;
+    border-radius: 20px;
+
+}
